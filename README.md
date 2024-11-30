@@ -4,6 +4,12 @@
 
 This script extracts incident data from the ReCAAP portal's API and saves the response to an Excel file. The data is retrieved by sending a POST request to the ReCAAP server and then parsing the JSON response. The results are cleaned and saved in an Excel file format for further analysis.
 
+## **Useful Resources**
+- [Visit IMB Piracy Reporting Center](https://portal.recaap.org/OpenMap)
+  <p text-align:"center">
+    <img src="" >
+  </p>
+
 ## Features
 - Sends a POST request to the ReCAAP portal API.
 - Parses the JSON response and extracts relevant details.
